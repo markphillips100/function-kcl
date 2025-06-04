@@ -21,7 +21,7 @@ require (
 	sigs.k8s.io/yaml v1.4.0
 )
 
-replace kcl-lang.io/krm-kcl => github.com/markphillips100/krm-kcl v0.11.3-beta.1
+replace kcl-lang.io/krm-kcl => github.com/markphillips100/krm-kcl v0.11.3-beta.2
 
 require (
 	cel.dev/expr v0.20.0 // indirect
